@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @1LHOM
-- 👀 I’m interested in Software development 
+- 👋 Hi, I’m Ilkhomjon Erkinov
+- 👀 I’m interested in Backend development, especially in framework Django
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ilhom.winner@gmail.com
 
